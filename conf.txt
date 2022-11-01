@@ -1,0 +1,5 @@
+server_port=1025
+client_port=1027
+inbox_path=~/project/postman-impersonation/inbox
+send_path=~/project/postman-impersonation/send
+spy_path=~/project/postman-impersonation/spy
